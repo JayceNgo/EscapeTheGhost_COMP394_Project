@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 7686029020528034233}
   - component: {fileID: 4875359755210084811}
   - component: {fileID: 7030100652151999946}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Block_Green
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -107,7 +107,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2629571552185223148}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Prop_Block_Play
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -143,7 +143,7 @@ GameObject:
   - component: {fileID: 6024056251392360264}
   - component: {fileID: 1726374647108894932}
   - component: {fileID: 6400925001171619597}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Off_White
   m_TagString: Untagged
   m_Icon: {fileID: 0}
